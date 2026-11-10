@@ -1,3 +1,5 @@
+<img width="1728" height="1152" alt="mcp-email-header" src="https://github.com/user-attachments/assets/1ade8cc1-8b12-404c-bf70-996fe25182e6" />
+
 # MCP Email Server
 
 A Model Context Protocol (MCP) server for handling SMTP/IMAP email operations. This server allows you to search past emails, send new emails, manage multiple email accounts, and work with drafts directly in your email client.
