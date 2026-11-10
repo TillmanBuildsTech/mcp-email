@@ -1,4 +1,4 @@
-<img width="1728" height="1152" alt="mcp-email-header" src="https://github.com/user-attachments/assets/1ade8cc1-8b12-404c-bf70-996fe25182e6" />
+<img width="1728" height="1152" alt="mcp-email-header" src="https://raw.githubusercontent.com/TillmanBuildsTech/mcp-email/main/.github/assets/header.jpg" />
 
 # MCP Email Server
 
